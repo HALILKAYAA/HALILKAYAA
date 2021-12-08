@@ -1,6 +1,6 @@
 # kaya
 <p align="center" >
-<img src="https://github.com/HALILKAYAA/kaya/blob/master/logo.gif?raw=true" alt="gif" >
+<img src="https://github.com/HALILKAYAA/kaya/blob/main/logo.gif?raw=true" alt="gif" >
 </p>
 
 <br>
