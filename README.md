@@ -1,4 +1,4 @@
-# kaya
+
 <p align="center" >
 <img src="https://github.com/HALILKAYAA/kaya/blob/main/logo.gif?raw=true" alt="gif" >
 </p>
